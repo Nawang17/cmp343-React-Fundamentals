@@ -1,1 +1,1 @@
-This repository is for the React Fundamentals assginment for CMP 343
+This repository is for the React Fundamentals assignment for CMP 343
